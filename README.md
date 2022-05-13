@@ -69,7 +69,7 @@ Security within the Secrets App utilises minimal overhead by using salting, hash
 
 **Level 2 Security - Encryption**
 
-*  The password field is now long binary string instead of plaintext
+*  The password field is now a long binary string instead of plaintext
 *  To combat this we used environment variables in a simple .env file which is used to keep sensitive variables and API keys safe.
 
 **Level 3 Security - Hashing**
