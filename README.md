@@ -31,7 +31,7 @@ Enter your new secret into the 'What's your secret?' field and press the button 
 <img width="906" alt="mandela-featured-image2" src="https://user-images.githubusercontent.com/91548582/142766557-1da57f40-a433-431a-a22a-b88fe15a124b.png">
 
 
-## Authorisation Use Cases
+## Authenticate Use Cases
 If the user wishes to authenticate themselves and authorise the secrets App then they can use Google,Facebook or GitHub to login using the OAuth 2.0 API framework which is showcased in the following use cases.
 
 ## Use Case One
@@ -48,8 +48,7 @@ User selects Facebook to authenticate themselves and authorise the secrets App w
 
 User selects Google to authenticate themselves and authorise the secrets App which will prompt the user to login, where the app secrets will request to view the user profile prior to rendering the secrets page. 
 
-<img width="789" alt="mandela-featured-image2" src="https://user-images.githubusercontent.com/91548582/142767277-1fc54001-16d6-406d-9d96-fe221c6a84bd.png">
-
+<img width="878" alt="share" src="https://user-images.githubusercontent.com/91548582/168318362-3c04905f-b73c-4c31-8c76-5f1b8156abe4.PNG">
 
 ## Use Case Three
 
@@ -57,8 +56,7 @@ User selects Google to authenticate themselves and authorise the secrets App whi
 
 User selects Github to authenticate themselves and authorise the secrets App which will prompt the user to login, where the app secrets will request to view the user profile prior to rendering the secrets page. 
 
-<img width="733" alt="mandela-featured-image2" src="https://user-images.githubusercontent.com/91548582/142767644-1e77561d-2cf2-42c0-b39d-f9066aa5f2c0.png">
-
+<img width="887" alt="share" src="https://user-images.githubusercontent.com/91548582/168319196-be3887f8-95c7-4927-b545-32c129933467.PNG">
 
 ## Security 
 
