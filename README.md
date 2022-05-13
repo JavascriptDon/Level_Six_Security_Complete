@@ -79,6 +79,7 @@ Security within the Secrets App utilises minimal overhead by using salting, hash
 
 **Level 4 Security - Salting & Hashing**
 
+* Used bcrypt.js to hash and salt passwords. https://www.npmjs.com/package/bcrypt
 * Salting adds random unique data to passwords. Those random characters are then appended to sensitive user data and ran through the hash function.
 * Adding salt increases complexity and makes our database a bit more secure.
 
@@ -95,7 +96,7 @@ Security within the Secrets App utilises minimal overhead by using salting, hash
 **Level 6 Security - Third Party OAuth2.0**
 
 * Auth0 helps you prevent critical identity data from falling into the wrong hands.
-*	Passwords are always salted and hashed using bcrypt. 
+* Passwords are always salted and hashed using bcrypt. 
 
 ## Example grabbed using Robo3T from Database [userDB]
 
