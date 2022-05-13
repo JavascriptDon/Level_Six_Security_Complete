@@ -117,12 +117,6 @@ Why use the pbkdf2 algorithm?
 This node crypto library was selected for securing the users personal information inputed to the Secrets App as the appropriate (independent) platform, where every generated salt is saved which makes rainbow table attacks even harder.
 The Password-based Key Derivation Function 2 (pbkdf2) prevents password cracking tools from making the best use of GPU's and this reduces the guess rate from hundreds of thousands of guesses per second, to less than a few tens of thousands of guesses per second. 
 
-
-## How to run? || Download the zip file to your downloads directory and extract it.
-
-* Open up a terminal/cmd and change to the directory with app.js in it
-* Run app.js locally using 'nodemon app.js' to start the server on localhost:3000.
-
 ## Useful Resources 
 
 * https://ejs.co/
